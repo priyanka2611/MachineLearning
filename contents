@@ -1,0 +1,28 @@
+Python: List, Tuples, Sets, Counters, Dictionaries, If-Else, Loop, Functions, List comprehension, Map, Filter, Reduce //done
+Numpy: Array Operations, matrix operations  //done
+Pandas: Creating, Reading data frames, indexing, selecting, merging, appending, pivot, lambda operations //done
+
+Maths: Vectors, Matrices, Linear operations, Determinants, Inverse, Least square approximations, Eigen values and eigne vectors
+Calculus: Differentiation, Maxima, Minima, Critical Points, Multivariable differentiation, Vector-valued functions, Jacobian and Hessian
+Example of visualizations, Understanding chart types, Matplotlib, seaborn, Univariate and bivariate distributions, pairwise relationship plot, categorical and time series data plot
+SQL: data retrieval, pattern matching, functions, sorting, aggregation, group by, joins
+data warehousing, OLAP, OLTP,  Constraints, Indexes, Window functions
+
+CRISP-DM Framework
+Probability: Random Variable, Expected values, Probability Distributions, Binomial Distribution, Cumulative Probability, Continous Probability distribution, Central Limit Theoram
+
+Hypothesis testing
+A/B Tests
+Critical value method,
+p-value method, 
+t-statistics
+T-distribution
+Exploratory Data analysis (most important part): Data Sourcing, Data cleaning like missing value treatment, invalid value removal, filtering data,
+Univariate analysis of categorical and continuous data
+segmented analysis
+Bi-variate analysis
+Deriving metrics
+Linear Regression: least square method, regression line, R vs R^2, assumptions of linear regression, hypothesis testing of regression. Multicollinearity, Assessment, feature selection, Residual analysis, variable selection, RFE
+Logistic Regression: Univariate Logistic Regression, Binary vs multi-class classification, Sigmoid curve, Odds and Log odds, feature selection, RFE, confusion matrix
+
+Logistic Regression: ROC curve, Sensitivity, specificity, precision, recall
